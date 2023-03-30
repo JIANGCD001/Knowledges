@@ -8,6 +8,11 @@ Since it is adapted from the equation groups, it also represents a linear equati
 ## Part 2 Defination
 
 A matrix is a group of numbers arranged like:
-$$\begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \end{bmatrix}$$
+$$\left[ \begin{array} 1 & 2 & 3 \\ 4 & 5 & 6 \end{array} \right]$$
 The number of the columns and rows can be changed according to the needs.  
 We use captal characters to name a matrix, for example, a matrix $A$.
+
+## Part 3 Special Matrices
+
+1. Square Matrix
+2. Similar Matrix
